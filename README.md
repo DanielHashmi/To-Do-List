@@ -2,7 +2,9 @@
 <br>
 <br>
 <i>This is a To-Do List project that i made using HTML ,CSS ,JS.this is a resposive project.</i>
-
+<br>
+<b><i>Click on the link to open the Website - https://danielhashmi.github.io/To-Do-List/</i></b>
+<br>
 <b>Instruction to use</b>
 <br>
 <br>
